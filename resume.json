@@ -1,0 +1,100 @@
+{
+  "basics": {
+    "name": "Kenni Bawden",
+    "label": "Programmer",
+    "email": "kenni.bawden@gmail.com",
+    "phone": "+614 77269137",
+    "website": "http://kennib.github.io",
+    "summary": "Kenni is the sort of person who tries to keep himself as honest as he does everyone else. Kenni is always trying to find ways to use his programming skills to make the world a more forgiving place.",
+    "location": {
+      "city": "Sydney",
+      "countryCode": "AU",
+      "region": "NSW"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "kennib",
+        "url": "http://github.com/kennib"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "NICTA",
+      "position": "Software Engineer",
+      "website": "http://nicta.com.au",
+      "startDate": "2013-08-28",
+      "summary": "NICTA is a computer science research organisation. NICTA has  strong focus on engineering solutions to real problems in industry through Computer Science research.",
+      "highlights": [
+        "Developing and designing the frontend to NSW's road traffic maps (http://roadsreport.rms.nsw.gov.au)",
+        "Designing and developing an interactive dashboard of Australian import and exports with a tight deadline of two weeks",
+        "Open Source-ing a web tool to navigate and query WMS and WFS maps servers (http://nicta.github.io/geo-query-builder/)"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "National Computer Science School",
+      "position": "Tutor",
+      "website": "http://ncss.edu.au",
+      "startDate": "2011-01-02",
+      "endDate": "2015-01-16",
+      "summary": "NCSS is a summer camp which gives high school students and experience a taste of Computer Science. During the 10 day camp students work in groups of 10-20 to create social networks or in smaller groups on an embedded programming project.",
+      "highlights": [
+        "Lead a team of 5 tutors and 16 students and some high school teachers in 2014 and 2015"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Sydney",
+      "area": "Science (Computer Science)",
+      "studyType": "Bachelor",
+      "startDate": "2010-03-01",
+      "endDate": "2013-07-01",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Frontend Web Development",
+      "level": "",
+      "keywords": [
+        "HTML",
+        "SVG",
+        "CSS",
+        "Javascript",
+        "D3",
+        "AngularJS",
+        "MercuryJS",
+        "Browserify"
+      ]
+    },
+    {
+      "name": "Backend Web Development",
+      "level": "",
+      "keywords": [
+        "Python",
+        "Django",
+        "Bottle",
+        "Haskell",
+        "Yesod",
+        "Scotty",
+        "Javascript",
+        "Node"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [],
+  "references": []
+}
