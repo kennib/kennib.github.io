@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Kenni Bawden",
-    "label": "Programmer",
+    "label": "Applied Technologist",
     "email": "kenni.bawden@gmail.com",
     "phone": "+614 77269137",
     "website": "http://kennib.github.io",
@@ -60,6 +60,10 @@
   "awards": [],
   "publications": [],
   "skills": [
+    {
+      "name": "Product Management",
+      "level": "Aspiring"
+    },
     {
       "name": "Frontend Web Development",
       "level": "",
